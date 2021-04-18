@@ -1,6 +1,6 @@
 using System;
 
-namespace IDe_MVC_Bootsrap5.Models
+namespace IDe_MVC_Bootstrap5.Models
 {
     public class ErrorViewModel
     {

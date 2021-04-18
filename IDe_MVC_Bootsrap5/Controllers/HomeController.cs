@@ -1,4 +1,4 @@
-﻿using IDe_MVC_Bootsrap5.Models;
+﻿using IDe_MVC_Bootstrap5.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace IDe_MVC_Bootsrap5.Controllers
+namespace IDe_MVC_Bootstrap5.Controllers
 {
     public class HomeController : Controller
     {
