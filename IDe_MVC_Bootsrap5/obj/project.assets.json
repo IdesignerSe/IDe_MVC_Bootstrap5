@@ -743,11 +743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elev\\source\\repos\\IDe_MVC_Bootstrap5\\IDe_MVC_Bootstrap5.csproj",
+      "projectUniqueName": "C:\\Users\\elev\\Documents\\GitHub\\IDe_MVC_Bootstrap5\\IDe_MVC_Bootsrap5\\IDe_MVC_Bootstrap5.csproj",
       "projectName": "IDe_MVC_Bootstrap5",
-      "projectPath": "C:\\Users\\elev\\source\\repos\\IDe_MVC_Bootstrap5\\IDe_MVC_Bootstrap5.csproj",
+      "projectPath": "C:\\Users\\elev\\Documents\\GitHub\\IDe_MVC_Bootstrap5\\IDe_MVC_Bootsrap5\\IDe_MVC_Bootstrap5.csproj",
       "packagesPath": "C:\\Users\\elev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elev\\source\\repos\\IDe_MVC_Bootstrap5\\obj\\",
+      "outputPath": "C:\\Users\\elev\\Documents\\GitHub\\IDe_MVC_Bootstrap5\\IDe_MVC_Bootsrap5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
