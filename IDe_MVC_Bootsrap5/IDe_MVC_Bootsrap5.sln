@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDe_MVC_Bootsrap5", "IDe_MVC_Bootsrap5.csproj", "{D0A20964-2A51-491C-9D17-004EDFC1B1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A20964-2A51-491C-9D17-004EDFC1B1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A20964-2A51-491C-9D17-004EDFC1B1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A20964-2A51-491C-9D17-004EDFC1B1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A20964-2A51-491C-9D17-004EDFC1B1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A05D6B04-D59C-4993-9E24-CEB0692A6A5E}
+	EndGlobalSection
+EndGlobal
